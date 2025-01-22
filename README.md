@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmankhan-pixel&show_icons=true&locale=en&layout=compact" alt="salmankhan-pixel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmankhan-pixel&show_icons=true&locale=en" alt="salmankhan-pixel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmankhan-pixel&" alt="salmankhan-pixel" /></p>
